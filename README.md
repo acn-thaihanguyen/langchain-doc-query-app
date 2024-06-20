@@ -2,7 +2,7 @@
 
 This repository contains a LangChain Documentation Query App that helps users query the documentation from the LangChain tutorials website. The app is built using LlamaIndex, Pinecone, OpenAI API, and Streamlit.
 
-<img src="./images/testing01.png" alt="Testing Image" width="200" />
+<img src="./images/testing01.png" alt="Testing Image" width="400" />
 
 ## Project Overview
 
